@@ -1,7 +1,7 @@
 <h1 align="center">Harsh Vardhan Tripathi</h1>
 
 <p align="center">
-  <b>AI Engineer • NLP & RAG Specialist • Voice AI • Full-Stack</b><br>
+  <b>AI/ML Engineer • NLP • RAG • Voice AI • Full-Stack</b><br>
   <i>I build production-grade AI systems that deliver real-world outcomes — not just prototypes.</i>
 </p>
 
