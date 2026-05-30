@@ -270,7 +270,7 @@ Real-time emotion analysis from journal entries. LLM-powered personalized guidan
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   "AI isn't valuable because it's intelligent —            │
+│   "AI isn't valuable because it's intelligent —             │
 │    it's valuable when it improves someone's                 │
 │    life or business outcome."                               │
 │                                                             │
