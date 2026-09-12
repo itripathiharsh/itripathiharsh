@@ -33,7 +33,7 @@
 <!--                      ABOUT ME                          -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=itripathiharsh&show_icons=true&theme=dark&title_color=DC143C&icon_color=C8A951&text_color=cccccc&bg_color=0d0000&border_color=8B0000&ring_color=8B0000" height="180"/>
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=itripathiharsh&show_icons=true&theme=dark&title_color=DC143C&icon_color=C8A951&text_color=cccccc&bg_color=0d0000&border_color=8B0000&ring_color=8B0000" height="180"/>
 
 ## 👨‍💻 Who I Am
 
@@ -249,8 +249,8 @@ Specialized regulatory compliance and policy QA assistant parsing insurance clau
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itripathiharsh&theme=dark&ring=8B0000&fire=DC143C&currStreakLabel=C8A951&sideLabels=C8A951&background=0d0000&border=8B0000&stroke=8B0000&dates=888888" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itripathiharsh&layout=compact&theme=dark&title_color=DC143C&text_color=cccccc&bg_color=0d0000&border_color=8B0000&langs_count=6" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=itripathiharsh&theme=dark&ring=8B0000&fire=DC143C&currStreakLabel=C8A951&sideLabels=C8A951&background=0d0000&border=8B0000&stroke=8B0000&dates=888888" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itripathiharsh&layout=compact&theme=dark&title_color=DC143C&text_color=cccccc&bg_color=0d0000&border_color=8B0000&langs_count=6" width="49%"/>
 
 </div>
 
@@ -258,15 +258,7 @@ Specialized regulatory compliance and policy QA assistant parsing insurance clau
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itripathiharsh&theme=rogue&bg_color=0a0000&color=DC143C&line=8B0000&point=C8A951&area=true&area_color=5c0000&hide_border=false&border_color=8B0000&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=itripathiharsh&theme=darkhub&column=6&margin-w=8&margin-h=8&title_color=DC143C&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=itripathiharsh&show_icons=true&theme=dark&title_color=DC143C&icon_color=C8A951&text_color=cccccc&bg_color=0d0000&border_color=8B0000&ring_color=8B0000&include_all_commits=true&count_private=true" width="80%"/>
 
 </div>
 
