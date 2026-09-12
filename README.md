@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,40:5c0000,100:8B0000&height=280&section=header&text=HARSH%20VARDHAN%20TRIPATHI&fontSize=40&fontColor=DC143C&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20LLM%20SYSTEMS%20%7C%20RAG%20%7C%20VOICE%20AI%20%7C%20LUCKNOW%2C%20INDIA&descSize=15&descColor=C8A951&fontAlignY=42&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,40:5c0000,100:8B0000&height=280&section=header&text=HARSH%20VARDHAN%20TRIPATHI&fontSize=40&fontColor=DC143C&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20FULL-STACK%20%7C%20LLM%20SYSTEMS%20%7C%20RAG%20%7C%20LUCKNOW%2C%20INDIA&descSize=15&descColor=C8A951&fontAlignY=42&descAlignY=62" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=22&duration=2800&pause=900&color=DC143C&center=true&vCenter=true&width=680&lines=Building+AI+that+people+DEPEND+on%2C+not+just+demo;LLMs+%7C+RAG+%7C+Voice+AI+%7C+Agentic+Systems;data+→+model+→+product+→+deployment;Real+problems.+Real+solutions.+No+smoke+%26+mirrors.;Multilingual+Voice+AI+%7C+Offline+LLMs+%7C+Full-Stack+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=22&duration=2800&pause=900&color=DC143C&center=true&vCenter=true&width=680&lines=Building+AI+that+people+DEPEND+on%2C+not+just+demo;Full-Stack+AI+%7C+LLMs+%7C+RAG+%7C+Agentic+Systems;data+→+model+→+product+→+deployment;Real+problems.+Real+solutions.+No+smoke+%26+mirrors.;High-Performance+Web+Apps+%7C+3D+WebGL+%7C+Production+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,17 +41,17 @@
 > *it's valuable when it improves someone's*
 > *life or business outcome."*
 
-🎓 **B.Tech CSE** — Computer Science & Engineering
-📍 **Lucknow, India**
-🏢 **Banao Technologies** — Currently shipping
-⚡ **I care about:** Latency. Cost. Accuracy. Usability.
+🎓 **B.Tech CSE** — Computer Science & Engineering  
+📍 **Lucknow, India**  
+🏢 **Banao Technologies** — Currently shipping  
+⚡ **I care about:** Latency. Cost. Accuracy. Usability. Reliability.
 
 **I specialize in:**
-- 🧠 LLM Applications & Agentic Systems
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🗣️ Voice AI — STT + TTS + Multilingual
-- ⚡ Offline & Low-Latency LLM Deployment
-- 🔗 End-to-End AI Products: API → UI → Cloud
+- 🧠 **LLM Applications & Agentic Systems**
+- 🔍 **Retrieval-Augmented Generation (RAG)** — Hybrid Dense/Sparse & Re-ranking
+- ⚡ **Full-Stack Web Engineering** — Next.js 15, React 19, FastAPI, PostgreSQL
+- 🌐 **3D WebGL & Codebase Intelligence**
+- 🔗 **End-to-End Production Deployment** — Vercel, Supabase, Cloud Workflows
 
 <br clear="right"/>
 
@@ -65,21 +65,17 @@
 
 <div align="center">
 
-**Languages & Core**
+**Languages & Frameworks**
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,postgresql&theme=dark)](https://skillicons.dev)
 
-**AI / ML**
+**AI / ML & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,supabase,docker,gcp,git&theme=dark)](https://skillicons.dev)
 
-**Backend & Cloud**
+**Tools & Ecosystem**
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,firebase,docker,gcp,git&theme=dark)](https://skillicons.dev)
-
-**Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,github,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,threejs,vite,github,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -88,17 +84,16 @@
 <div align="center">
 
 ![RAG](https://img.shields.io/badge/RAG-8B0000?style=flat-square&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-6B0000?style=flat-square&logoColor=white)
+![Next.js 15](https://img.shields.io/badge/Next.js%2015-5c0000?style=flat-square&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-8B0000?style=flat-square&logoColor=white)
-![faster-whisper](https://img.shields.io/badge/faster--whisper-5c0000?style=flat-square&logoColor=white)
-![STT/TTS](https://img.shields.io/badge/STT%2FTTS-8B0000?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-6B0000?style=flat-square&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-8B0000?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-6B0000?style=flat-square&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8B0000?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-5c0000?style=flat-square&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-6B0000?style=flat-square&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-8B0000?style=flat-square&logoColor=white)
+![Llama 3](https://img.shields.io/badge/Llama%203-6B0000?style=flat-square&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5c0000?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-6B0000?style=flat-square&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-6B0000?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-8B0000?style=flat-square&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-5c0000?style=flat-square&logoColor=white)
 
@@ -110,78 +105,96 @@
 <!--                  FEATURED PROJECTS                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## 🚀 Featured Flagship Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗣️ Veena AI — Voice Insurance Agent
+### 🏢 Leadwise — Outreach & CRM Command Center
 
-Real-time voice agent speaking **Hindi, Marathi & Gujarati** for Indian insurance customers. Handles policy queries, objections, and premium explanations through **STT + TTS + RAG** integration.
+Executive-grade partnership outreach platform with 7-stage pipeline tracking, intelligent priority scoring, multi-sheet relational Excel backups to Google Drive, and strict RBAC.
 
-`Voice AI` `RAG` `Multilingual` `FastAPI`
+`Next.js 15` `React 19` `Supabase PostgreSQL` `Prisma` `TailwindCSS`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-8B0000?style=for-the-badge&logo=github&logoColor=C8A951)](https://github.com/itripathiharsh)
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-### 🔎 NLP Query Engine (NL → SQL)
-
-Converts plain English → **SQL queries** and performs semantic search across PDFs & DOCX files. Auto-schema detection, query caching, supports 10+ concurrent users. Zero manual config.
-
-`NLP → SQL` `Semantic Search` `PDF/DOCX`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-8B0000?style=for-the-badge&logo=github&logoColor=C8A951)](https://github.com/itripathiharsh)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 EchoMind — Offline Chatbot (Qwen 0.5B)
-
-A fully local LLM on CPU. No internet. No GPU. **2–5s inference latency**, 4-turn sliding memory. CLI + Streamlit UI. Built for low-resource environments where connectivity isn't guaranteed.
-
-`Offline LLM` `CPU Inference` `Qwen` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-8B0000?style=for-the-badge&logo=github&logoColor=C8A951)](https://github.com/itripathiharsh/EchoMind-Chatbot)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://leadwise-red.vercel.app)
+[![Repo](https://img.shields.io/badge/View%20Repo-0d0000?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/itripathiharsh/Leadwise)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Bitcoin Trader Sentiment Analysis
+### 🧬 Project DNA — Codebase Intelligence & 3D WebGL
 
-Analyzed **211,224 BTC trades across 7+ years**. Correlated Fear & Greed Index with PnL behavior. Built a sentiment-aware exposure strategy that reduces drawdowns during Extreme Fear.
+Production-grade static architecture reasoning platform. Parses code into AST entity graphs with Tree-Sitter, renders an interactive 3D WebGL dependency globe, and calculates Bus Factor / churn heatmaps.
 
-`Sentiment Analysis` `Trading` `Python` `Data Science`
+`React 18` `Three.js WebGL` `FastAPI` `Tree-Sitter` `Python`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-8B0000?style=for-the-badge&logo=github&logoColor=C8A951)](https://github.com/itripathiharsh)
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://project-dna-platform.vercel.app/)
+[![Repo](https://img.shields.io/badge/View%20Repo-0d0000?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/itripathiharsh/Project-s-DNA)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 EcoRAG Agent
+### 🧠 Enterprise Knowledge Assistant — Production RAG
 
-An agentic RAG pipeline with environmental intelligence. Retrieves, reasons, and responds — grounded in real data, not hallucinations. Modular and production-ready.
+Enterprise RAG system with Hybrid Search (dense + sparse), Cross-Encoder re-ranking, real-time SSE streaming, Groq Llama 3.3 with automatic Gemini failover, and built-in RAGAS evaluation.
 
-`Agentic AI` `RAG` `ChromaDB` `FastAPI`
+`Next.js 14` `FastAPI` `ChromaDB` `Groq / Gemini` `RAGAS`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-8B0000?style=for-the-badge&logo=github&logoColor=C8A951)](https://github.com/itripathiharsh/EcoRAG-Agent)
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://enterprise-knowledge-assistant-ten.vercel.app)
+[![Repo](https://img.shields.io/badge/View%20Repo-0d0000?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/itripathiharsh/enterprise-knowledge-assistant)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Green Minds — AI Wellness Journal
+### 🎮 Fraction AI — Intelligent Tutoring Platform
 
-Real-time emotion analysis from journal entries. LLM-powered personalized guidance to build emotional awareness, mental clarity, and healthier daily habits.
+Interactive client-side learning platform with 5 game modes, conversational voice tutor with provider fallback, teacher command center, misconception analytics, and custom design system.
 
-`Emotion AI` `LLMs` `Mental Wellness` `Firebase`
+`React 18` `Vite 6` `Web Speech API` `Multi-LLM` `CSS Tokens`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-8B0000?style=for-the-badge&logo=github&logoColor=C8A951)](https://github.com/itripathiharsh/Green_Minds)
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8B0000?style=for-the-badge&logo=vercel&logoColor=white)](https://fraction-ai-five.vercel.app/)
+[![Repo](https://img.shields.io/badge/View%20Repo-0d0000?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/itripathiharsh/Fraction-AI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Green Minds — AI Wellness Journal & Emotion Engine
+
+Real-time emotion analysis from journal entries with LLM-powered personalized guidance to build emotional awareness, mental clarity, and positive daily cognitive habits.
+
+`Emotion AI` `LLMs` `Streamlit` `Mental Wellness` `Python`
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-8B0000?style=for-the-badge&logo=streamlit&logoColor=white)](https://greenminds.streamlit.app/)
+[![Repo](https://img.shields.io/badge/View%20Repo-0d0000?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/itripathiharsh/Green_Minds)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ PolicyPilot — Insurance Compliance RAG
+
+Specialized regulatory compliance and policy QA assistant parsing insurance clauses, exclusions, and policy schedules with contextual grounding and citations on HuggingFace Spaces.
+
+`Python` `HuggingFace Spaces` `RAG` `LangChain`
+
+<br/>
+
+[![Live Space](https://img.shields.io/badge/Live%20Space-8B0000?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/The-Arthur-Morgan/PolicyPilot-RAG)
+[![Repo](https://img.shields.io/badge/View%20Repo-0d0000?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/itripathiharsh/PolicyPilot-RAG)
 
 </td>
 </tr>
