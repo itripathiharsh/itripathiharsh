@@ -33,9 +33,9 @@
 <!--                      ABOUT ME                          -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=itripathiharsh&show_icons=true&theme=dark&title_color=DC143C&icon_color=C8A951&text_color=cccccc&bg_color=0d0000&border_color=8B0000&ring_color=8B0000" height="180"/>
-
 ## 👨‍💻 Who I Am
+
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=itripathiharsh&show_icons=true&theme=dark&title_color=DC143C&icon_color=C8A951&text_color=cccccc&bg_color=0d0000&border_color=8B0000&ring_color=8B0000" width="46%"/>
 
 > *"AI isn't valuable because it's intelligent —*
 > *it's valuable when it improves someone's*
